@@ -27,7 +27,7 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "https://api.getpostman.com/collections/19d8289f-62e3-4d04-96e1-30ab97a16f33?apikey={{API_KEY}}",
+          "raw": "https://api.getpostman.com/collections/19d8289f-62e3-4d04-96e1-30ab97a16f33?apikey={{API_KE}}",
           "protocol": "https",
           "host": [
             "api",
