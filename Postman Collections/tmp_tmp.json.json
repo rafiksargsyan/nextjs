@@ -19,7 +19,7 @@
           }
         }
       ],
-      "_postman_id": "9cdc6a84-adb6-4cb4-9bee-1a9b982575ae",
+      "id": "9cdc6a84-adb6-4cb4-9bee-1a9b982575ae",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -27,7 +27,7 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "https://api.getpostman.com/collections/19d8289f-62e3-4d04-96e1-30ab97a16f33?apikey={{API_KE}}",
+          "raw": "https://api.getpostman.com/collections/19d8289f-62e3-4d04-96e1-30ab97a16f33?apikey={{API_EY}}",
           "protocol": "https",
           "host": [
             "api",
@@ -41,7 +41,7 @@
           "query": [
             {
               "key": "apikey",
-              "value": "{{API_KEY}}"
+              "value": "{{API_EY}}"
             }
           ]
         }
