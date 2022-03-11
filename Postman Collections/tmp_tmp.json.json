@@ -27,7 +27,7 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "https://api.getpostman.com/collections/19d8289f-62e3-4d04-96e1-30ab97a16f33?apikey={{API_EY}}",
+          "raw": "https://api.getpostman.com/collections/19d8289f-62e3-4d04-96e1-30ab97a16f33?apikey={{API_KEY}}",
           "protocol": "https",
           "host": [
             "api",
@@ -41,7 +41,7 @@
           "query": [
             {
               "key": "apikey",
-              "value": "{{API_EY}}"
+              "value": "{{API_KEY}}"
             }
           ]
         }
